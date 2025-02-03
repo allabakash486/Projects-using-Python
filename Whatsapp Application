@@ -11,6 +11,7 @@ class School():
         self.name= name
         self.phn = phn
         self.addrs = addrs
+        
         self.standard = standard
 
     
